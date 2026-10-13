@@ -3,11 +3,11 @@
 A small translucent glass card for your Linux desktop that shows what Spotify is playing. It has album art, title and artist, previous / play-pause / next, a seek bar and a volume slider. Show or hide it with a keyboard shortcut.
 
 <p align="center">
-  <img src="widget.png" alt="Spotify Widget" width="600">
+  <img src="https://github.com/user-attachments/assets/321f421c-dab8-47ac-b0fd-b66e6621a393" alt="Spotify Widget" width="578">
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/UmbraDomini"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
 
 ## Features
@@ -58,7 +58,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Appearance
 
 <p align="center">
-  <img src="settings1.png" alt="Appearance settings" width="380">
+  <img src="https://github.com/user-attachments/assets/6feea8ee-21ec-4618-a80b-82962f76d1db" alt="Appearance settings" width="380">
 </p>
 
 | Setting | What it does |
@@ -77,7 +77,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Layout
 
 <p align="center">
-  <img src="settings2.png" alt="Layout settings" width="380">
+  <img src="https://github.com/user-attachments/assets/ce2b54ab-549b-4027-8f0b-767e3c0831a1" alt="Layout settings" width="380">
 </p>
 
 | Setting | What it does |
@@ -96,7 +96,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Behavior
 
 <p align="center">
-  <img src="settings3.png" alt="Behavior settings" width="380">
+  <img src="https://github.com/user-attachments/assets/f96f3a5b-9adf-4668-8f14-2aff2bf6dac6" alt="Behavior settings" width="380">
 </p>
 
 | Setting | What it does |
