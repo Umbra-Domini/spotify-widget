@@ -1,4 +1,4 @@
-# Spotify Widget
+# Spotify Widget For Linux
 
 A small translucent glass card for your Linux desktop that shows what Spotify is playing. It has album art, title and artist, previous / play-pause / next, a seek bar and a volume slider. Show or hide it with a keyboard shortcut.
 
