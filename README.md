@@ -7,7 +7,7 @@ A small translucent glass card for your Linux desktop that shows what Spotify is
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://www.buymeacoffee.com/UmbraDomini"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
 
 ## Features
