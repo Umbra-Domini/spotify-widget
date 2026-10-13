@@ -6,6 +6,10 @@ A small translucent glass card for your Linux desktop that shows what Spotify is
   <img src="widget.png" alt="Spotify Widget" width="600">
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"></a>
+</p>
+
 ## Features
 
 - Glass card with album art, track info, seek bar and volume
@@ -140,6 +144,10 @@ The command also starts the widget if it isn't running.
 | `install/setup.sh` | Installs dependencies and sets the shortcut |
 
 Keep the four `.py` files in the same folder.
+
+## Support
+
+If you like the widget and want to say thanks, you can [buy me a coffee](https://www.buymeacoffee.com/YOUR_USERNAME). It's never expected, and it's appreciated.
 
 ## License
 
